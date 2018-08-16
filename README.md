@@ -4,6 +4,9 @@
 - HTML5 và CSS3
 ------------------------------
 <<<<<<< HEAD
+<<<<<<< HEAD
 Add comment
 =======
 >>>>>>> parent of b35c9b7... demo
+=======
+>>>>>>> parent of b1e0fe0... Add comment
