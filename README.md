@@ -6,4 +6,4 @@
 - HTML5 và CSS3
 ------------------------------
 Add comment
->>>>>>> parent of 32a0faa... resole commit
+
