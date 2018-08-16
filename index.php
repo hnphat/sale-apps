@@ -45,6 +45,7 @@
            <li class="dropdown">
                 <a class="nav_link text-danger dropdown-toggle" href="#" data-toggle="dropdown"><span class="glyphicon glyphicon-tags"></span> MÃ GIẢM GIÁ <span class="glyphicon glyphicon-chevron-down"></span></a>         
                   <ul class="dropdown-menu f_size">
+                      <li><a href="#new_code">#Mới nhất</a></li>
                       <li><a href="#">#Lazada</a></li>
                       <li><a href="#">#Tiki</a></li>
                       <li><a href="#">#Shopee</a></li>
@@ -99,7 +100,6 @@
                     </div>
                 </div>
             </div>
-
                 <!-- Left and right controls -->
                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">
                     <span class="glyphicon glyphicon-chevron-left"></span>
@@ -110,6 +110,109 @@
                     <span class="sr-only">Next</span>
                 </a>
             </div>
+            <hr style="height:3px;border:none;color:#333;background-color:Tomato;margin: 20px 0 0 0;"/>
+            <main class="content">
+                <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/1.png" alt="Demo" title="5 lời khuyên sai bét về cách chống chai pin iPhone, tưởng hữu ích nhưng lại không hiệu quả chút nào"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4 title="5 lời khuyên sai bét về cách chống chai pin iPhone, tưởng hữu ích nhưng lại không hiệu quả chút nào"><strong>5 lời khuyên sai bét về cách chống chai pin iPhone, tưởng hữu ích nhưng lại không hiệu quả chút nào</strong></h4></a>
+                       <h5><strong><a href="#">Mã giảm giá</a></strong> - <span style="color: gray;">25 phút trước</span></h5>
+                       <p>Thế nhưng cả 5 phương pháp này đã phổ biến đến mức đa số người dùng iPhone hiện nay đều đã tin sái cổ...</p>
+                   </div>         
+                </section>
+                <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/2.jpg" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>Bão số 4 cận kề, các tỉnh huy động người, họp khẩn trong đêm ứng phó bão</strong></h4></a>
+                       <h5><strong><a href="#">Hot deal</a></strong> - <span style="color: gray;">1 ngày trước</span></h5>
+                       <p>Theo TT DBKTTV TƯ cho biết, sáng sớm nay 16/8, bão số 4 đã vượt qua bán đảo Lôi Châu và đi vào phía Đông Vịnh Bắc Bộ. Hiện bão số 4 cách Móng Cái 210km, cách Thái Bình 320km, cách Vinh 450km, giật cấp 11.</p>
+                   </div>         
+                </section>
+                <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/3.jpg" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>Ác mộng trong ngành bảo mật máy tính: Hack bằng các phần mềm trí tuệ nhân tạo</strong></h4></a>
+                       <h5><strong><a href="#">Mã giảm giá</a></strong> - <span style="color: gray;">15 phút trước</span></h5>
+                       <p>Các loại phần mềm mới này sử dụng công nghệ trí tuệ nhân tạo, có thể học cách tránh được những bức tường phòng thủ tốt nhất</p>
+                   </div>         
+                </section>
+                <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/4.jpg" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>Tổng thống Thổ Nhĩ Kỳ kêu gọi người dân tẩy chay các sản phẩm của Apple</strong></h4></a>
+                       <h5><strong><a href="#">Coupon du lịch</a></strong> - <span style="color: gray;">17 giờ trước</span></h5>
+                       <p>Trong bối cảnh căng thẳng thương mại giữa Mỹ và Thổ Nhĩ Kỳ ngày càng leo thang và tình hình kinh tế địa phương đang rơi vào khủng hoảng</p>
+                   </div>         
+                </section>
+                <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/5.png" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>Chớ dại mà ăn uống khi nghe bản nhạc đám cưới được tấu bằng gà cao su này</strong></h4></a>
+                       <h5><strong><a href="#">Hướng dẫn mua hàng</a></strong> - <span style="color: gray;">5 phút trước</span></h5>
+                       <p>Lần đầu tiên, giai điệu thiêng liêng, hùng tráng của "Wedding March" được tấu lên bằng gà cao su.</p>
+                   </div>         
+                </section>
+                <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/6.jpg" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>10 điều thú vị về chúa trời Enel mà fan "cuồng" One Piece chưa chắc đã biết</strong></h4></a>
+                       <h5><strong><a href="#">Tin khuyến mãi</a></strong> - <span style="color: gray;">1 phút trước</span></h5>
+                       <p>Enel đã từng là "Chúa" của Skypiea và là người có sức mạnh cực kỳ to lớn. Không những thế anh còn là một trong những nhân vật phản diện yêu thích nhất của manga/anime...</p>
+                   </div>         
+                </section>
+                 <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/7.png" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>Tin vui cho game thủ: Đã có thể tải bản miễn phí The Walking Dead: The Final Season trên PC</strong></h4></a>
+                       <h5><strong><a href="#">Hot deal</a></strong> - <span style="color: gray;">2 ngày trước</span></h5>
+                       <p>Chỉ cần có một bộ máy tính và tài khoản Steam, các bạn đã có thể thử nghiệm tựa game này mà không tốn bất...</p>
+                   </div>         
+                </section>
+                <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/8.png" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>Lineage 2 Revolution: Chưa đầy nửa tháng L2R đã bị game thủ dễ dàng "phá đảo" nhanh chóng</strong></h4></a>
+                       <h5><strong><a href="#">Quà tặng</a></strong> - <span style="color: gray;">4 giờ trước</span></h5>
+                       <p>Lineage 2 Revolution: Rất nhiều game thủ Việt đã cán mốc level 120 "cấp độ cao nhất trong phiên bản hiện tại".</p>
+                   </div>         
+                </section>
+                 <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/9.jpg" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>Ys: Altago - Game JRPG ấn tượng mới toanh, sẽ khiến game thủ phải mê mệt</strong></h4></a>
+                       <h5><strong><a href="#">Gaming</a></strong> - <span style="color: gray;">2 ngày trước</span></h5>
+                       <p>Ys: Altago được xây dựng dựa trên series JRPG cổ điển, Ys, với khoảng 10 game đã được phát hành từ năm 1987 do hãng sở hữu Falcom phát triển.</p>
+                   </div>         
+                </section>
+                 <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/10.jpg" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>5 ngôi sao Hollywood mà nếu bạn muốn mời họ đóng phim, hãy chuẩn bị sẵn hàng trăm tỷ nhé</strong></h4></a>
+                       <h5><strong><a href="#">Sản phẩm hot</a></strong> - <span style="color: gray;">2 giờ trước</span></h5>
+                       <p>Cát xê luôn là một trong những chủ đề gây bàn cãi nhất trong giới diễn viên. Đối với những diễn viên đình đám, hay còn được gọi một cách đơn giản là hạng A của Hollywood.</p>
+                   </div>         
+                </section>
+            </main>
         </article>
         <aside class="col-md-4">
             <h5 class="text-center text-danger"><strong>NHẬN MÃ GIẢM GIÁ TẠI ĐÂY</strong></h5>
@@ -124,7 +227,7 @@
                    -->         
                </div>                         
             </form> 
-            <h4 class="text-center text-danger"><strong>MÃ GIẢM GIÁ MỚI </strong></h4>  
+            <h4 class="text-center text-danger" id="new_code"><strong>MÃ GIẢM GIÁ MỚI </strong></h4>  
             <hr style="height:1px;border:none;color:#333;background-color:Tomato;"/> 
             <ul class="list-group">              
                 <li class="list-group-item list-group-item-info"><a href="#"><span class="glyphicon glyphicon-tags"></span> SHOPEE THÁNG 8/2018 </a><span class="badge">33</span></li> 
@@ -141,7 +244,7 @@
             </ul>
             <h4 class="text-center text-danger"><strong>KHUYẾN MÃI HOT</strong></h4>  
              <hr style="height:1px;border:none;color:#333;background-color:Tomato;"/> 
-             <div class="row" style="border-bottom: 1px dotted gray;">
+             <div class="row">
                 <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/khuyenmaihot/4.jpg" alt="Visa"/>
@@ -151,7 +254,8 @@
                      </div>
                 </a>
              </div>
-             <div class="row" style="border-bottom: 1px dotted gray;">
+             <hr style="border:0.5px dotted gray;color:gray;"/> 
+             <div class="row">
                  <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/khuyenmaihot/1.jpg" alt="Visa" />
@@ -161,7 +265,8 @@
                      </div>
                  </a>
              </div>
-             <div class="row" style="border-bottom: 1px dotted gray;">
+             <hr style="border:0.5px dotted gray;color:gray;"/> 
+             <div class="row">
                  <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/khuyenmaihot/5.png" alt="Visa" />
@@ -171,7 +276,8 @@
                      </div>
                  </a>
              </div>
-             <div class="row" style="border-bottom: 1px dotted gray;">
+             <hr style="border:0.5px dotted gray;color:gray;"/> 
+             <div class="row">
                  <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/khuyenmaihot/6.jpg" alt="Visa" />
@@ -181,7 +287,8 @@
                      </div>
                  </a>
              </div>
-             <div class="row" style="border-bottom: 1px dotted gray;">
+             <hr style="border:0.5px dotted gray;color:gray;"/> 
+             <div class="row">
                  <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/khuyenmaihot/4.jpg" alt="Visa" />
@@ -190,20 +297,10 @@
                          <h5>Mã giảm giá Mytour mới nhất tháng 8/2018, khuyến mãi đặt phòng khách sạn Mytour</h5>
                      </div>
                  </a>
-             </div>
-             <div class="row" style="border-bottom: 1px dotted gray;">
-                 <a href="#">
-                     <div class="col-xs-3" style="padding: 10px;">
-                         <img src="images/khuyenmaihot/4.jpg" alt="Visa" />
-                     </div>
-                     <div class="col-xs-9" style="padding: 0;">
-                         <h5>Mã giảm giá Tiki tháng 8/2018, khuyến mãi Tiki cùng nhiều chương trình giảm giá mới nhất 2018</h5>
-                     </div>
-                 </a>
-             </div>
+             </div>                       
             <h4 class="text-center text-danger"><strong>KINH NGHIỆM HAY</strong></h4>  
              <hr style="height:1px;border:none;color:#333;background-color:Tomato;"/> 
-             <div class="row" style="border-bottom: 1px dotted gray;">
+             <div class="row">
                  <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/kinhnghiemhay/1.jpg" alt="Visa" />
@@ -213,7 +310,8 @@
                      </div>
                  </a>
              </div>
-              <div class="row" style="border-bottom: 1px dotted gray;">
+             <hr style="border:0.5px dotted gray;color:gray;"/> 
+              <div class="row">
                  <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/kinhnghiemhay/2.jpg" alt="Visa" />
@@ -223,7 +321,8 @@
                      </div>
                  </a>
              </div>
-              <div class="row" style="border-bottom: 1px dotted gray;">
+             <hr style="border:0.5px dotted gray;color:gray;"/> 
+              <div class="row">
                  <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/kinhnghiemhay/3.jpg" alt="Visa" />
@@ -233,7 +332,8 @@
                      </div>
                  </a>
              </div>
-              <div class="row" style="border-bottom: 1px dotted gray;">
+             <hr style="border:0.5px dotted gray;color:gray;"/> 
+              <div class="row">
                  <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/kinhnghiemhay/4.jpg" alt="Visa" />
@@ -245,7 +345,7 @@
              </div>
             <h4 class="text-center text-danger"><strong>REVIEW MUA SẮM</strong></h4>  
              <hr style="height:1px;border:none;color:#333;background-color:Tomato;"/>
-             <div class="row" style="border-bottom: 1px dotted gray;">
+             <div class="row">
                  <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/review/1.jpg" alt="Visa" />
@@ -255,7 +355,8 @@
                      </div>
                  </a>
              </div>
-             <div class="row" style="border-bottom: 1px dotted gray;">
+             <hr style="border:0.5px dotted gray;color:gray;"/> 
+             <div class="row">
                  <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/review/2.jpg" alt="Visa" />
@@ -265,7 +366,8 @@
                      </div>
                  </a>
              </div>
-             <div class="row" style="border-bottom: 1px dotted gray;">
+             <hr style="border:0.5px dotted gray;color:gray;"/> 
+             <div class="row">
                  <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/review/3.jpg" alt="Visa" />
@@ -275,7 +377,8 @@
                      </div>
                  </a>
              </div>
-             <div class="row" style="border-bottom: 1px dotted gray;">
+             <hr style="border:0.5px dotted gray;color:gray;"/> 
+             <div class="row">
                  <a href="#">
                      <div class="col-xs-3" style="padding: 10px;">
                          <img src="images/review/4.jpg" alt="Visa" />
@@ -285,6 +388,7 @@
                      </div>
                  </a>
              </div>
+             <hr style="border:0.5px dotted gray;color:gray;"/> 
             <h4 class="text-center text-danger"><strong>TÌM KIẾM</strong></h4>  
              <hr style="height:1px;border:none;color:#333;background-color:Tomato;"/> 
              <form action="trang-chu.html" method="post" id="form_main">   

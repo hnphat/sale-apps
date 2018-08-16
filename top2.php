@@ -10,13 +10,17 @@
     body{
         font-family: verdana, sans-serif;
     }    
-    .nav_link, .f_size {font-size: 13pt;}    
+    .nav_link, .f_size {font-size: 13pt;}  
     
     hr {margin: 0;}
     .clearfix::after {content: ""; clear: both; display: table;}   
     h5 {line-height: 15pt;}    
+    h4 {line-height: 20pt;}
     a {transition: color 0.5s;}
     a:hover {color: tomato; text-decoration: none;}
+    .content {
+        padding-right: 20px;
+    }
 </style>
 </head>
 <body>
