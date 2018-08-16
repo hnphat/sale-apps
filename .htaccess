@@ -1,0 +1,7 @@
+DirectoryIndex index.php
+<IfModule mod_rewrite.c>
+	IndexIgnore *
+</IfModule>
+ErrorDocument 404 Error
+RewriteEngine On
+RewriteRule ^trang-chu.html$ index.php
