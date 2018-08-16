@@ -62,14 +62,120 @@
     <section class="row">
         <article class="col-md-8">
             <main class="content">
-                <h1 style="line-height: 30pt;font-size: 20pt;margin-top:0;"><strong>Mã giảm giá Lazada và nhiều chương trình khuyến mãi HOT nhất tháng 8/2018</strong></h1>
+                <h1 style="line-height: 30pt;font-size: 22pt;margin-top:0;"><strong>Mã giảm giá Lazada và nhiều chương trình khuyến mãi HOT nhất tháng 8/2018</strong></h1>
                 <h4><a href="#">Hot deal</a> - <span style="color: gray;">17 giờ trước</span></h4>
                 <span class="fa fa-share-alt" style="font-size: 25pt;"> Share </span>
                 <a id="face" href="#" class="fa fa-facebook-official" style="font-size: 25pt;"></a>
                 <a id="gg" href="#" class="fa fa-google-plus-square" style="font-size: 25pt;"></a>
                 <a id="twi" href="#" class="fa fa-twitter-square" style="font-size: 25pt;"></a>
                 <a id="in" href="#" class="fa fa-linkedin-square"style="font-size: 25pt;"></a>	
-                <a id="pin" href="#" class="fa fa-pinterest-square" style="font-size: 25pt;"></a>
+                <a id="pin" href="#" class="fa fa-pinterest-square" style="font-size: 25pt;"></a><br/><br/>
+				<div style="margin: 10px;">
+					<img src="images/content/1.png" alt="demo" />
+				</div>
+				<p class="txt_content">Tổng hợp mã giảm giá Tiki, chia sẻ voucher khuyến mãi Tiki mới nhất. Bạn hãy sử dụng những Coupon Tiki bên dưới ở bước thanh toán khi đặt mua hàng trên Tiki để mua hàng với giá rẻ nhất nhé.. Khuyến mãi Tiki và nhiều chương trình quà tặng, ưu đãi ngân hàng rất tốt luôn được cập nhật mới nhất bên dưới. Lưu lại trang này để tiện theo dõi nhé</p>
+				<h3 class="text-center" style="color: dodgerblue;">Chia sẻ mã giảm giá Tiki mới nhất tháng 08/2018</h3>
+				<div class="note">
+					<h4><span class="fa fa-warning" style="color: orange;"></span> Lưu ý</h4>
+					<ul>
+						<li><p class="txt_content">Các mã giảm giá Tiki được chúng tôi cập nhật liên tục hàng ngày, hàng giờ. Bạn sẽ không phải mất công đi đâu tìm kiếm nữa, hãy lưu trang này lại để tiện truy cập nhé. Ngoài ra bạn có thể <strong>like fanpage Sale4mua</strong> >><span style="color: green;"><strong>TẠI ĐÂY</strong></span><< hoặc đăng ký nhận mã giảm giá mới qua tin nhắn Facbook >>><span style="color: green;"><strong>TẠI ĐÂY</strong></span><< để cập nhật những tin khuyến mãi HOT nhất nhé</p></li>						
+						<li><p class="txt_content">Coupon Tiki thường có ít lượt sử dụng, thường xuyên hết lượt trước khi hết hạn vì vậy bạn cần truy cập trang này thường xuyên để lấy mã sử dụng sớm kẻo hết nhé.</p></li>
+						<li><p class="txt_content">Vui lòng click nút “CHI TIẾT” để xem chi tiết thể lệ của mã khuyến mãi Tiki, tránh trường hợp dùng sai thể lệ mã sẽ không áp dụng được. Với các khuyến mãi Tiki khi click nút “NHẬN ƯU ĐÃI” bạn sẽ được dẫn đến trang khuyến mãi, vui lòng xem chi tiết khuyến mãi trong trang (không có mã giảm giá)</p></li>
+					<ul>
+				</div>
+				<table class="table table-striped" style="margin-top: 20px; border: 1px solid gray; box-shadow: 0 0 10px gray;">
+					<tr>
+						<td style="padding: 15px;"><span class="badge" style="color: white;background-color: red; font-size: 12pt;">1</span>&nbsp;&nbsp;&nbsp;
+						<span style="border-bottom: 1px dotted gray; color: green; font-size: 12pt;"><strong>Voucher HOT</strong></span></td>
+					</tr>
+					<tr>
+						<td style="padding: 15px;"><span class="badge" style="color: white;background-color: red; font-size: 12pt;">2</span>&nbsp;&nbsp;&nbsp;
+						<span style="border-bottom: 1px dotted gray; color: green; font-size: 12pt;"><strong>Mã giảm giá Tiki sách và VPP</strong></span></td>
+					</tr>
+					<tr>
+						<td style="padding: 15px;"><span class="badge" style="color: white;background-color: red; font-size: 12pt;">3</span>&nbsp;&nbsp;&nbsp;
+						<span style="border-bottom: 1px dotted gray; color: green; font-size: 12pt;"><strong>Điện tử – Điện lạnh – Điện gia dụng</strong></span></td>
+					</tr>
+					<tr>
+						<td style="padding: 15px;"><span class="badge" style="color: white;background-color: red; font-size: 12pt;">4</span>&nbsp;&nbsp;&nbsp;
+						<span style="border-bottom: 1px dotted gray; color: green; font-size: 12pt;"><strong>Thời trang & Phụ kiện</strong></span></td>
+					</tr>
+					<tr>
+						<td style="padding: 15px;"><span class="badge" style="color: white;background-color: red; font-size: 12pt;">5</span>&nbsp;&nbsp;&nbsp;
+						<span style="border-bottom: 1px dotted gray; color: green; font-size: 12pt;"><strong>Coupon Tiki Mẹ và Bé</strong></span></td>
+					</tr>
+					<tr>
+						<td style="padding: 15px;"><span class="badge" style="color: white;background-color: red; font-size: 12pt;">6</span>&nbsp;&nbsp;&nbsp;
+						<span style="border-bottom: 1px dotted gray; color: green; font-size: 12pt;"><strong>Khuyến mãi Tiki từ ngân hàng</strong></span></td>
+					</tr>
+					<tr>
+						<td style="padding: 15px;"><span class="badge" style="color: white;background-color: red; font-size: 12pt;">7</span>&nbsp;&nbsp;&nbsp;
+						<span style="border-bottom: 1px dotted gray; color: green; font-size: 12pt;"><strong>Khuyến mãi ngành hàng khác</strong></span></td>
+					</tr>
+					<tr>
+						<td style="padding: 15px;"><span class="badge" style="color: white;background-color: red; font-size: 12pt;">8</span>&nbsp;&nbsp;&nbsp;
+						<span style="border-bottom: 1px dotted gray; color: green; font-size: 12pt;"><strong>HOT DEAL HÔM NAY</strong></span></td>
+					</tr>
+					<tr>
+						<td style="padding: 15px;"><span class="badge" style="color: white;background-color: red; font-size: 12pt;">9</span>&nbsp;&nbsp;&nbsp;
+						<span style="border-bottom: 1px dotted gray; color: green; font-size: 12pt;"><strong>Nguyễn Kim</strong></span></td>
+					</tr>					
+				</table><br/><br/>
+				<h2 class="text-success"><span class="fa fa-bookmark"></span> <strong>Voucher HOT</strong></h2>
+				<img src="images/content/2.jpg" alt="demo" /><br/><br/>
+				<div class="row" style="border: 0.5px solid #DCDCDC;padding: 15px; border-radius: 5px;margin-top: 10px;">
+					<div class="col-md-9 row">
+						<div class="col-xs-3" style="border-right: 0.5px solid #DCDCDC; border-left: 10px solid green;background-color: #F0FFF0;box-shadow: 0 0 5px gray; border-radius: 5px;">			
+							<h3 style="color: tomato;"><span class="fa fa-angle-double-down"></span><strong> 60%</strong></h3>
+						</div>
+						<div class="col-xs-9">
+						<p class="txt_content"><strong>Mã giảm giá Tiki App giảm 20% cho nhiều sản phẩm (Chỉ áp dụng cho đơn hàng đầu tiên trên Tiki App)</strong></p>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<button type="button" class="btn btn-danger btn-md" style="width: 100%;">Click lấy mã</button>
+					</div>
+				</div>
+				<div class="row" style="border: 0.5px solid #DCDCDC;padding: 15px; border-radius: 5px;margin-top: 10px;">
+					<div class="col-md-9 row">
+						<div class="col-xs-3" style="border-right: 0.5px solid #DCDCDC; border-left: 10px solid green;background-color: #F0FFF0;box-shadow: 0 0 5px gray; border-radius: 5px;">			
+							<h3 style="color: tomato;"><span class="fa fa-angle-double-down"></span><strong> 60%</strong></h3>
+						</div>
+						<div class="col-xs-9">
+						<p class="txt_content"><strong>Mã giảm giá Tiki App giảm 20% cho nhiều sản phẩm (Chỉ áp dụng cho đơn hàng đầu tiên trên Tiki App)</strong></p>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<button type="button" class="btn btn-danger btn-md" style="width: 100%;">Click lấy mã</button>
+					</div>
+				</div>
+				<div class="row" style="border: 0.5px solid #DCDCDC;padding: 15px; border-radius: 5px;margin-top: 10px;">
+					<div class="col-md-9 row">
+						<div class="col-xs-3" style="border-right: 0.5px solid #DCDCDC; border-left: 10px solid green;background-color: #F0FFF0;box-shadow: 0 0 5px gray; border-radius: 5px;">			
+							<h3 style="color: tomato;"><span class="fa fa-angle-double-down"></span><strong> 60%</strong></h3>
+						</div>
+						<div class="col-xs-9">
+						<p class="txt_content"><strong>Mã giảm giá Tiki App giảm 20% cho nhiều sản phẩm (Chỉ áp dụng cho đơn hàng đầu tiên trên Tiki App)</strong></p>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<button type="button" class="btn btn-danger btn-md" style="width: 100%;">Click lấy mã</button>
+					</div>
+				</div>
+				<div class="row" style="border: 0.5px solid #DCDCDC;padding: 15px; border-radius: 5px;margin-top: 10px;">
+					<div class="col-md-9 row">
+						<div class="col-xs-3" style="border-right: 0.5px solid #DCDCDC; border-left: 10px solid green;background-color: #F0FFF0;box-shadow: 0 0 5px gray; border-radius: 5px;">			
+							<h3 style="color: tomato;"><span class="fa fa-angle-double-down"></span><strong> 60%</strong></h3>
+						</div>
+						<div class="col-xs-9">
+						<p class="txt_content"><strong>Mã giảm giá Tiki App giảm 20% cho nhiều sản phẩm (Chỉ áp dụng cho đơn hàng đầu tiên trên Tiki App)</strong></p>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<button type="button" class="btn btn-danger btn-md" style="width: 100%;">Click lấy mã</button>
+					</div>
+				</div>
+				
             </main>
         </article>
         <aside class="col-md-4">

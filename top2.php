@@ -21,6 +21,8 @@
     .content {
         padding-right: 20px;
     }   
+	.txt_content {font-size:120%; color: black;line-height: 20pt;}
+	.note {border-top: 1px solid red; border-bottom: 1px solid red; background-color: #FFE4E1;padding: 10px;}
 </style>
 </head>
 <body>
