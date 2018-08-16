@@ -20,7 +20,7 @@
     a:hover {color: tomato; text-decoration: none;}
     .content {
         padding-right: 20px;
-    }
+    }   
 </style>
 </head>
 <body>

@@ -134,6 +134,46 @@
                 </section>
                 <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
                    <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/7.png" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>Tin vui cho game thủ: Đã có thể tải bản miễn phí The Walking Dead: The Final Season trên PC</strong></h4></a>
+                       <h5><strong><a href="#">Hot deal</a></strong> - <span style="color: gray;">2 ngày trước</span></h5>
+                       <p>Chỉ cần có một bộ máy tính và tài khoản Steam, các bạn đã có thể thử nghiệm tựa game này mà không tốn bất...</p>
+                   </div>         
+                </section>
+                <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/8.png" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>Lineage 2 Revolution: Chưa đầy nửa tháng L2R đã bị game thủ dễ dàng "phá đảo" nhanh chóng</strong></h4></a>
+                       <h5><strong><a href="#">Quà tặng</a></strong> - <span style="color: gray;">4 giờ trước</span></h5>
+                       <p>Lineage 2 Revolution: Rất nhiều game thủ Việt đã cán mốc level 120 "cấp độ cao nhất trong phiên bản hiện tại".</p>
+                   </div>         
+                </section>
+                 <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/9.jpg" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>Ys: Altago - Game JRPG ấn tượng mới toanh, sẽ khiến game thủ phải mê mệt</strong></h4></a>
+                       <h5><strong><a href="#">Gaming</a></strong> - <span style="color: gray;">2 ngày trước</span></h5>
+                       <p>Ys: Altago được xây dựng dựa trên series JRPG cổ điển, Ys, với khoảng 10 game đã được phát hành từ năm 1987 do hãng sở hữu Falcom phát triển.</p>
+                   </div>         
+                </section>
+                 <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
+                       <a href="#"><img src="images/tinmoi/10.jpg" alt="Demo"/></a>
+                   </div>
+                   <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
+                       <a href="#"><h4><strong>5 ngôi sao Hollywood mà nếu bạn muốn mời họ đóng phim, hãy chuẩn bị sẵn hàng trăm tỷ nhé</strong></h4></a>
+                       <h5><strong><a href="#">Sản phẩm hot</a></strong> - <span style="color: gray;">2 giờ trước</span></h5>
+                       <p>Cát xê luôn là một trong những chủ đề gây bàn cãi nhất trong giới diễn viên. Đối với những diễn viên đình đám, hay còn được gọi một cách đơn giản là hạng A của Hollywood.</p>
+                   </div>         
+                </section>
+                <section class="row" style="border-bottom: 1px solid Gainsboro; padding-top: 10px; padding-bottom: 10px;">               
+                   <div class="col-xs-4" style="padding: 10px;">
                        <a href="#"><img src="images/tinmoi/3.jpg" alt="Demo"/></a>
                    </div>
                    <div class="col-xs-8" style="padding: 0; padding-left: 10px; padding-right: 10px;">
@@ -396,7 +436,10 @@
                    <input class="form-control" type="text" name="txt_search" placeholder="Nội dung tìm" required="required" style="margin: 5px;width: 100%; padding: 20px;"/>
                    <input class="btn btn-success" type="submit" name="find" style="display: none;"/>    
                </div>                         
-            </form>      
+            </form>   
+            <div style="position: sticky; top: 0;">
+                <img src="images/qc/5.png" alt="Visa" style="width:100%;"/>                
+            </div>   
         </aside>
     </section>
 </main>
